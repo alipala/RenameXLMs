@@ -1,0 +1,24 @@
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\bin\Debug\RenameXMLs.exe
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\bin\Debug\RenameXMLs.pdb
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.Form1.resources
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.Properties.Resources.resources
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.csproj.GenerateResource.Cache
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.exe
+c:\users\ali.pala@siemens.com\my documents\visual studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.pdb
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.exe
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.pdb
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\bin\Debug\RenameXMLs.exe
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\bin\Debug\RenameXMLs.pdb
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.Form1.resources
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.Properties.Resources.resources
+C:\Users\ali.pala@siemens.com\Documents\Visual Studio 2010\Projects\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.csproj.GenerateResource.Cache
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.exe
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.pdb
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\bin\Debug\RenameXMLs.exe
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\bin\Debug\RenameXMLs.pdb
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.csprojResolveAssemblyReference.cache
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.Form1.resources
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.Properties.Resources.resources
+C:\Users\z003d7tu\Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.csproj.GenerateResource.Cache
+D:\Old_PC\_Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.exe
+D:\Old_PC\_Desktop\RenameXMLs\RenameXMLs\RenameXMLs\obj\x86\Debug\RenameXMLs.pdb
